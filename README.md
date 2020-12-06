@@ -4,4 +4,6 @@
 
 ![cppcheck-action](https://github.com/vamsisasidhar/stepin104685/workflows/cppcheck-action/badge.svg?branch=main)
 
+![Valgrind](https://github.com/vamsisasidhar/stepin104685/workflows/Valgrind/badge.svg)
+
 miniproject_c
