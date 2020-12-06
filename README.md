@@ -6,4 +6,6 @@
 
 ![Valgrind](https://github.com/vamsisasidhar/stepin104685/workflows/Valgrind/badge.svg)
 
+![C/C++ CI](https://github.com/stepin105361/calc/workflows/C/C++%20CI/badge.svg)
+
 miniproject_c
